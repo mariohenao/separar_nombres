@@ -1,5 +1,0 @@
-name: separar_nombres
-channels:
-        - default
-dependencies:
-        - pandas
